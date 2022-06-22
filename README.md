@@ -20,7 +20,7 @@ Just download and run.
 
 ## Download
 [BAT](https://github.com/teknixstuff/IE-for-Windows-11/releases/latest/download/iexplore.bat)  
-[JS](https://github.com/teknixstuff/IE-for-Windows-11/releases/latest/download/iexplore.bat)
+[JS](https://github.com/teknixstuff/IE-for-Windows-11/releases/latest/download/iexplore.bat)  
 [VBS](https://github.com/teknixstuff/IE-for-Windows-11/releases/latest/download/iexplore.bat)
 
 ## License
