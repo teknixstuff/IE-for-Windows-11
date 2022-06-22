@@ -1,0 +1,1 @@
+WScript.CreateObject("InternetExplorer.Application").Visible=true;
