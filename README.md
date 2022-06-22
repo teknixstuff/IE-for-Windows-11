@@ -1,10 +1,10 @@
 # IE for Windows 11
 Use IE and flash on Windows 11
 
-[![GitHub release](https://img.shields.io/github/release/teknixstuff/screenpaper/all.svg)](https://github.com/screenpaper/screenpaper/releases)
-[![Github all releases](https://img.shields.io/github/downloads/teknixstuff/screenpaper/total.svg)](https://github.com/screenpaper/screenpaper/releases)
-[![GitHub stars](https://img.shields.io/github/stars/teknixstuff/screenpaper.svg)](https://github.com/teknixstuff/screenpaper/stargazers)
-[![Issues](https://img.shields.io/github/issues/teknixstuff/screenpaper.svg)](https://github.com/teknixstuff/screenpaper/issues)
+[![GitHub release](https://img.shields.io/github/release/teknixstuff/IE-for-Windows-11/all.svg)](https://github.com/teknixstuff/IE-for-Windows-11/releases)
+[![Github all releases](https://img.shields.io/github/downloads/teknixstuff/IE-for-Windows-11/total.svg)](https://github.com/teknixstuff/IE-for-Windows-11/releases)
+[![GitHub stars](https://img.shields.io/github/stars/teknixstuff/IE-for-Windows-11.svg)](https://github.com/teknixstuff/IE-for-Windows-11/stargazers)
+[![Issues](https://img.shields.io/github/issues/teknixstuff/IE-for-Windows-11.svg)](https://github.com/teknixstuff/IE-for-Windows-11/issues)
 
 ## Contents
 - [About](#about)
